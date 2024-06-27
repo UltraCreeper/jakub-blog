@@ -1,0 +1,16 @@
+body {
+    color: rgb(172, 161, 161);
+    background-color: rgb(106, 100, 100);
+    font-family: Courier, monospace, Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+nav {
+    text-align: left;
+    border: 1px solid white;
+    margin: 180px;
+    padding: 50px;
+    max-width: 420px;
+    margin-left: auto;
+    margin-right: auto;
+}
